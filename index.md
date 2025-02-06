@@ -4,4 +4,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-alt-img = "https://octodex.github.com/images/yaktocat.png"
+![Image of Cat](https://octodex.github.com/images/yaktocat.png)
